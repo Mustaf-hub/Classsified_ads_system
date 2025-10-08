@@ -1,4 +1,4 @@
-# 🏪 Sellify - Complete Classified Ads System
+# 🏪 Sellify - Classified Ads System
 
 [![PHP](https://img.shields.io/badge/PHP-66.2%25-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
 [![Flutter](https://img.shields.io/badge/Flutter-25.8%25-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -110,8 +110,7 @@ We welcome contributions from developers of all skill levels! Here's how you can
 - **📱 Mobile App Enhancement** - Improve the Flutter application
 - **🎨 UI/UX Improvements** - Enhance user interface and experience
 - **📚 Documentation** - Improve code documentation and guides
-- **🧪 Testing** - Write tests and improve code coverage
-- **🌐 Localization** - Add multi-language support
+      - **🧪 Testing** - Write tests and improve code 
 - **🔒 Security** - Security audits and improvements
 
 ### 🚀 Getting Started as a Contributor
